@@ -36,7 +36,6 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   padding: 20px 0;
-  margin-top: 50%;
   color: #ecf0f1;
   background: #3498db;
   font-family: "Russo One", Impact, sans-serif;
@@ -48,7 +47,23 @@ body {
 
 .reveal h1 {
   font-size: 3em;
+  margin-top: 50%;
   text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2); }
+
+.reveal h2
+{
+  color: #ecf0f1;
+  background: #3498db;
+  padding: 20px 0;
+  font-size: 2em;
+  text-transform: uppercase;
+}
+
+.reveal p
+{
+  color: #fff;
+  background: #000;
+}
 
 /*********************************************
  * LINKS
